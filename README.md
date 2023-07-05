@@ -1,8 +1,7 @@
-Lending Club Case Study
-Identify the driving factors/variable behind an applicant defaulting a loan by analysing the given data.
-The analysis takes an Exploratory approach which include Univariate, Bivariate and Multi Variate analysis.
-Python program is used to clean and analyse the data with necessary visualisation
 
+# Lending Club Case Study
+> Identifies the driving factors/variable behind an applicant defaulting a loan by analysing the given data.
+The analysis takes an Exploratory approach which include Univariate, Bivariate and Multi Variate analysis. Exploratory Data Anaylysis is used to understand the data, clean and derive a conclusion.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -18,13 +17,13 @@ Python program is used to clean and analyse the data with necessary visualisatio
 
 ## Conclusions
 Loan defaulters are higher in the below cases: (but not limited to)
-    - whose 'loan amounts' are between 5000 to 10000.
-    - who have a 'term' of 36 months
-    - for the 'int_rate' between 10-14%
-    - who 'RENT' a home
-    - whose derogatory public records are 0
-    - total credit revolving balance is between 0-30
-    - whose issue year is 2011 and month is December
+- whose 'loan amounts' are between 5000 to 10000.
+- who have a 'term' of 36 months
+- for the 'int_rate' between 10-14%
+- who 'RENT' a home
+- whose derogatory public records are 0
+- total credit revolving balance is between 0-30
+- whose issue year is 2011 and month is December
 
 ## Technologies Used
 -  YData Profiling (Previously Pandas Profiling) - 4.3
